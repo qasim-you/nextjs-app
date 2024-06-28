@@ -119,8 +119,8 @@ export const InfiniteMovingCards = ({
                   {/* <img src="/profile.JPG" alt="profile" /> */}
                   <Image
                     src="/profile.JPG"
-                    width={40}
-                    height={20}
+                    width={50}
+                    height={24}
                     className="rounded-full aspect-square object-cover"
                     alt="Picture of the author"
                   />
